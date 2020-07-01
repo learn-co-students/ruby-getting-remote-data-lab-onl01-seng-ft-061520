@@ -1,4 +1,6 @@
 require "pry"
+#################  NOW open IRB, use require_relative to load lib/get_requester.rb, and send out some requests!  #################
+
 
 # Write your code here
 
