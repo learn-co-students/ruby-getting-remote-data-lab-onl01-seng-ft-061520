@@ -9,6 +9,7 @@ require 'net/http'
  require 'json'
 
 
+ 
 class GetRequester
     attr_accessor :url
 
